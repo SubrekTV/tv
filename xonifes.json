@@ -1,0 +1,30 @@
+  {
+	"lang": "en",
+	"name": "Subrek TV",
+	"scope": "/",
+	"display": "standalone",
+	"start_url": "/",
+	"short_name": "Subrek TV",
+	"theme_color": "#000000",
+	"orientation": "portrait",
+	"background_color": "#18191c",
+	"related_applications": [],	      
+    "description": ""Subrek Live Streaming",
+	"serviceworker": {
+        "src": "/",
+        "scope": "/",
+        "use_cache": true
+    },
+    "icons": [
+        {
+            "src": "https://cdn.jsdelivr.net/gh/SubrekTV/tv@main/fav.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn.jsdelivr.net/gh/SubrekTV/tv@main/fav.jpg",
+            "sizes": "256x256",
+            "type": "image/png"
+        }	
+    ]
+}
