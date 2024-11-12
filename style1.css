@@ -1,0 +1,14 @@
+    .date1 {
+        text-transform: uppercase;
+    }
+    a[sport] {display: none;}
+    a.macso {font-size: 11px;color:#666;}
+    .buttons-row a {
+    display: flex;
+    padding: 5px 8px;
+    margin-bottom: 10px;
+    background-color: #494a4f;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 3px;
+    font-size: 10px; }
