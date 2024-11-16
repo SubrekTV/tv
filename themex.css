@@ -11997,7 +11997,7 @@ body {
 .header {
   background-color: var(--body-bg2);
   min-height: var(--headheight);
-  max-width: 100%;
+  max-width:  var(--headwidth);
   padding: 0 15px;
   border-bottom: 1px solid var(--border-color); }
   .header.style-2 {
