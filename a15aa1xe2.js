@@ -1,3 +1,4 @@
+
   function _0x6d39() {
     var _0x2bb8b4 = [
         'write', '1882275uTgjwQ', 'constructor', '1854056dglbdJ', 'sDirW', 'EIMMX', 'prototype', 
@@ -12,3 +13,13 @@
         return _0x2bb8b4;
     };
     return _0x6d39();
+}
+
+function _0x2ae6(_0x3304e6, _0x2e042f) {
+    var _0x1bfe10 = _0x6d39();
+    return _0x2ae6 = function (_0x5d7ef6, _0x5879c4) {
+        _0x5d7ef6 = _0x5d7ef6 - 0x1b1;
+        var _0x3b7418 = _0x1bfe10[_0x5d7ef6];
+        return _0x3b7418;
+    }, _0x2ae6(_0x3304e6, _0x2e042f);
+}
